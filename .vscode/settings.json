@@ -1,0 +1,6 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=c:/Users/MITHUN/Documents/PlatformIO/Projects/voltas/.cache/clangd",
+        "--query-driver=C:/Users/MITHUN/.platformio/packages/toolchain-*/bin/*,C:/Users/MITHUN/.platformio/packages/tool-*/bin/*"
+    ]
+}
