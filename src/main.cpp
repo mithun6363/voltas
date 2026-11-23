@@ -12,8 +12,8 @@
 const char *HOSTNAME = "voltas"; // Settings page at http://voltas.local/
 
 // ─── WiFi credentials ────────────────────────────────────────────────────────
-const char *WIFI_SSID = "TP-Link";
-const char *WIFI_PASSWORD = "sakthi@home";
+const char *WIFI_SSID = "test";
+const char *WIFI_PASSWORD = "test@123";
 
 // ─── MQTT broker ─────────────────────────────────────────────────────────────
 const char *MQTT_BROKER = "broker.emqx.io";
